@@ -2,7 +2,7 @@
 Word counter project on maven
 (Reading on source blob recommended)
 
-For start make sure you copy the project to your computer from command line. Type these codes one by one:
+For start make sure you copied the project to your computer from command line. Type these codes one by one:
 
 git clone https://github.com/barisacdr/WordCounter.git
 cd WordCounter
